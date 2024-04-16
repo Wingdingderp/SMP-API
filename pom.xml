@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>net.boredman</groupId>
+    <groupId>quest.safecloud</groupId>
     <artifactId>SMP-API</artifactId>
-    <version>2.0.3</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>SMP-Api</name>
@@ -16,7 +16,7 @@
         <java.version>17</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <url>https://boredman.net</url>
+    <url>https://safecloud.quest</url>
 
     <build>
         <plugins>
